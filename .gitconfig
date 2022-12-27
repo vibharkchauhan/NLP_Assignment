@@ -1,0 +1,11 @@
+[user]
+	email = vibharkchauhan@gmail.com
+	name = “Vibha
+	name = “Vibha
+	name = “vibha
+	name = “vibha
+	name = “Vibha
+[push]
+	default = current
+[http]
+	postBuffer = 1048576000
